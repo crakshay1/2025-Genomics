@@ -1,1 +1,676 @@
-https://www.ncbi.nlm.nih.gov/protein/NP_000029.2?report=genbank&log$=protalign&blast_rank=1&RID=WP61FD8F016
+LOCUS       NP_000029               2843 aa            linear   PRI 18-NOV-2024
+DEFINITION  adenomatous polyposis coli protein isoform b [Homo sapiens].
+ACCESSION   NP_000029
+VERSION     NP_000029.2
+DBSOURCE    REFSEQ: accession NM_000038.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 2843)
+  AUTHORS   Song,J., Ke,B. and Fang,X.
+  TITLE     APC and ZBTB2 May Mediate M2 Macrophage Infiltration to Promote the
+            Development of Renal Fibrosis: A Bioinformatics Analysis
+  JOURNAL   Biomed Res Int 2024, 5674711 (2024)
+   PUBMED   39328595
+  REMARK    GeneRIF: APC and ZBTB2 May Mediate M2 Macrophage Infiltration to
+            Promote the Development of Renal Fibrosis: A Bioinformatics
+            Analysis.
+            Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 2843)
+  AUTHORS   Kliche,J., Simonetti,L., Krystkowiak,I., Kuss,H., Diallo,M.,
+            Rask,E., Nilsson,J., Davey,N.E. and Ivarsson,Y.
+  TITLE     Proteome-scale characterisation of motif-based interactome rewiring
+            by disease mutations
+  JOURNAL   Mol Syst Biol 20 (9), 1025-1048 (2024)
+   PUBMED   39009827
+REFERENCE   3  (residues 1 to 2843)
+  AUTHORS   Arteaga-Blanco,L.A., Evans,A.E. and Dixon,D.A.
+  TITLE     Plasma-Derived Extracellular Vesicles and Non-Extracellular Vesicle
+            Components from APCMin/+ Mice Promote Pro-Tumorigenic Activities
+            and Activate Human Colonic Fibroblasts via the NF-kappaB Signaling
+            Pathway
+  JOURNAL   Cells 13 (14), 1195 (2024)
+   PUBMED   39056778
+  REMARK    GeneRIF: Plasma-Derived Extracellular Vesicles and
+            Non-Extracellular Vesicle Components from APC[Min/+] Mice Promote
+            Pro-Tumorigenic Activities and Activate Human Colonic Fibroblasts
+            via the NF-kappaB Signaling Pathway.
+            Publication Status: Online-Only
+REFERENCE   4  (residues 1 to 2843)
+  AUTHORS   Lambertz,S. and Ballhausen,W.G.
+  TITLE     Identification of an alternative 5' untranslated region of the
+            adenomatous polyposis coli gene
+  JOURNAL   Hum Genet 90 (6), 650-652 (1993)
+   PUBMED   8383094
+REFERENCE   5  (residues 1 to 2843)
+  AUTHORS   Yen,T., Stanich,P.P., Axell,L. and Patel,S.G.
+  TITLE     APC-Associated Polyposis Conditions
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and
+            Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301519
+REFERENCE   6  (residues 1 to 2843)
+  AUTHORS   Nakatsuru,S., Yanagisawa,A., Ichii,S., Tahara,E., Kato,Y.,
+            Nakamura,Y. and Horii,A.
+  TITLE     Somatic mutation of the APC gene in gastric cancer: frequent
+            mutations in very well differentiated adenocarcinoma and
+            signet-ring cell carcinoma
+  JOURNAL   Hum Mol Genet 1 (8), 559-563 (1992)
+   PUBMED   1338691
+REFERENCE   7  (residues 1 to 2843)
+  AUTHORS   Miki,Y., Nishisho,I., Horii,A., Miyoshi,Y., Utsunomiya,J.,
+            Kinzler,K.W., Vogelstein,B. and Nakamura,Y.
+  TITLE     Disruption of the APC gene by a retrotransposal insertion of L1
+            sequence in a colon cancer
+  JOURNAL   Cancer Res 52 (3), 643-645 (1992)
+   PUBMED   1310068
+REFERENCE   8  (residues 1 to 2843)
+  AUTHORS   Nagase,H., Miyoshi,Y., Horii,A., Aoki,T., Petersen,G.M.,
+            Vogelstein,B., Maher,E., Ogawa,M., Maruyama,M., Utsunomiya,J. et
+            al.
+  TITLE     Screening for germ-line mutations in familial adenomatous polyposis
+            patients: 61 new patients and a summary of 150 unrelated patients
+  JOURNAL   Hum Mutat 1 (6), 467-473 (1992)
+   PUBMED   1338764
+REFERENCE   9  (residues 1 to 2843)
+  AUTHORS   Nishisho,I., Nakamura,Y., Miyoshi,Y., Miki,Y., Ando,H., Horii,A.,
+            Koyama,K., Utsunomiya,J., Baba,S. and Hedge,P.
+  TITLE     Mutations of chromosome 5q21 genes in FAP and colorectal cancer
+            patients
+  JOURNAL   Science 253 (5020), 665-669 (1991)
+   PUBMED   1651563
+REFERENCE   10 (residues 1 to 2843)
+  AUTHORS   Kinzler,K.W., Nilbert,M.C., Su,L.K., Vogelstein,B., Bryan,T.M.,
+            Levy,D.B., Smith,K.J., Preisinger,A.C., Hedge,P., McKechnie,D. et
+            al.
+  TITLE     Identification of FAP locus genes from chromosome 5q21
+  JOURNAL   Science 253 (5020), 661-665 (1991)
+   PUBMED   1651562
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA795663.1, M73548.1,
+            AB210001.1 and CA313732.1.
+            
+            On Oct 4, 2004 this sequence version replaced NP_000029.1.
+            
+            Summary: This gene encodes a tumor suppressor protein that acts as
+            an antagonist of the Wnt signaling pathway. It is also involved in
+            other processes including cell migration and adhesion,
+            transcriptional activation, and apoptosis. Defects in this gene
+            cause familial adenomatous polyposis (FAP), an autosomal dominant
+            pre-malignant disease that usually progresses to malignancy.
+            Mutations in the APC gene have been found to occur in most
+            colorectal cancers, where disease-associated mutations tend to be
+            clustered in a small region designated the mutation cluster region
+            (MCR) and result in a truncated protein product. [provided by
+            RefSeq, Jun 2022].
+            
+            Transcript Variant: This variant (3) differs in the 5' UTR, lacks a
+            portion of the 5' coding region, and initiates translation at an
+            alternate start codon, compared to variant 1. This variant also
+            contains an alternate in-frame exon compared to variant 1. The
+            encoded isoform (b) has a distinct N-terminus and is longer than
+            isoform a. Variants 2, 3, and 4 all encode the same isoform (b).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803613.217786.1, M73548.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000257430.9/ ENSP00000257430.4
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..2843
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /map="5q22.2"
+     Protein         1..2843
+                     /product="adenomatous polyposis coli protein isoform b"
+                     /note="adenomatous polyposis coli protein; WNT signaling
+                     pathway regulator; adenomatosis polyposis coli tumor
+                     suppressor; deleted in polyposis 2.5; protein phosphatase
+                     1, regulatory subunit 46; adenomatous polyposis coli
+                     (APC); epididymis secretory sperm binding protein; APC,
+                     WNT signaling pathway regulator"
+                     /calculated_mol_wt=311516
+     Site            2
+                     /site_type="acetylation"
+                     /note="N-acetylalanine.
+                     /evidence=ECO:0007744|PubMed:22814378; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          4..55
+                     /region_name="APC_N_CC"
+                     /note="Coiled-coil N-terminus of APC, dimerization domain;
+                     pfam16689"
+                     /db_xref="CDD:435517"
+     Region          <8..272
+                     /region_name="SMC_prok_B"
+                     /note="chromosome segregation protein SMC, common
+                     bacterial type; TIGR02168"
+                     /db_xref="CDD:274008"
+     Site            107
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61315; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            111
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61315; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          127..207
+                     /region_name="Suppressor_APC"
+                     /note="Adenomatous polyposis coli tumour suppressor
+                     protein; pfam11414"
+                     /db_xref="CDD:463275"
+     Region          239..305
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          340..392
+                     /region_name="ARM"
+                     /note="Armadillo/beta-catenin-like repeats; smart00185"
+                     /db_xref="CDD:214547"
+     Region          393..466
+                     /region_name="APC_rep"
+                     /note="Adenomatous polyposis coli (APC) repeat; pfam18797"
+                     /db_xref="CDD:465870"
+     Region          453..495
+                     /region_name="ARM 1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          465..508
+                     /region_name="armadillo repeat"
+                     /note="armadillo repeat [structural motif]"
+                     /db_xref="CDD:293788"
+     Site            order(499,503,507,542,546,550,586,590,594)
+                     /site_type="other"
+                     /note="putative peptide binding site [polypeptide
+                     binding]"
+                     /db_xref="CDD:293788"
+     Region          505..547
+                     /region_name="ARM 2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          512..553
+                     /region_name="ARM"
+                     /note="Armadillo/beta-catenin-like repeats; smart00185"
+                     /db_xref="CDD:214547"
+     Region          516..553
+                     /region_name="armadillo repeat"
+                     /note="armadillo repeat [structural motif]"
+                     /db_xref="CDD:293788"
+     Region          548..591
+                     /region_name="ARM 3"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          560..595
+                     /region_name="armadillo repeat"
+                     /note="armadillo repeat [structural motif]"
+                     /db_xref="CDD:293788"
+     Region          592..638
+                     /region_name="ARM 4"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          603..644
+                     /region_name="armadillo repeat"
+                     /note="armadillo repeat [structural motif]"
+                     /db_xref="CDD:293788"
+     Region          639..683
+                     /region_name="ARM 5"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          649..689
+                     /region_name="ARM"
+                     /note="Armadillo/beta-catenin-like repeats; smart00185"
+                     /db_xref="CDD:214547"
+     Region          653..687
+                     /region_name="armadillo repeat"
+                     /note="armadillo repeat [structural motif]"
+                     /db_xref="CDD:293788"
+     Region          684..725
+                     /region_name="ARM 6"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          691..731
+                     /region_name="Arm"
+                     /note="Armadillo/beta-catenin-like repeat; pfam00514"
+                     /db_xref="CDD:425727"
+     Region          695..731
+                     /region_name="armadillo repeat"
+                     /note="armadillo repeat [structural motif]"
+                     /db_xref="CDD:293788"
+     Region          726..767
+                     /region_name="ARM 7"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          732..1019
+                     /region_name="Arm_APC_u3"
+                     /note="Armadillo-associated region on APC; pfam16629"
+                     /db_xref="CDD:435476"
+     Site            744
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            748
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            780
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          828..878
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Site            908
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          923..943
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          958..987
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          960..1337
+                     /region_name="Responsible for down-regulation through a
+                     process mediated by direct ubiquitination"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Site            987
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P70478; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1020..1169
+                     /region_name="Interaction with catenins.
+                     /evidence=ECO:0000269|PubMed:8259519"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1036..1135
+                     /region_name="APC_u5"
+                     /note="Unstructured region on APC between 1st and 2nd
+                     catenin-bdg motifs; pfam16630"
+                     /db_xref="CDD:406923"
+     Site            1038
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61315; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1042
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1099..1169
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1190..1244
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1257..>1274
+                     /region_name="APC_r"
+                     /note="APC repeat; pfam05923"
+                     /db_xref="CDD:461781"
+     Region          1283..1368
+                     /region_name="APC_u9"
+                     /note="Unstructured region on APC between 1st two
+                     creatine-rich regions; pfam16633"
+                     /db_xref="CDD:435478"
+     Region          <1291..1701
+                     /region_name="PTZ00449"
+                     /note="104 kDa microneme/rhoptry antigen; Provisional"
+                     /db_xref="CDD:185628"
+     Region          1311..1376
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1360
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1371
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1385
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1392
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61315; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1395
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61315; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1403..1475
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1438
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1526..1569
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1567
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P70478; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1583..1611
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1637..1660
+                     /region_name="APC_r"
+                     /note="APC repeat; pfam05923"
+                     /db_xref="CDD:461781"
+     Region          1662..1715
+                     /region_name="APC_u13"
+                     /note="Unstructured region on APC between APC_crr and
+                     SAMP; pfam16634"
+                     /db_xref="CDD:406927"
+     Region          1664..1717
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1716..1737
+                     /region_name="SAMP"
+                     /note="SAMP Motif; pfam05924"
+                     /db_xref="CDD:461782"
+     Region          1729..1836
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1746..1839
+                     /region_name="APC_u14"
+                     /note="Unstructured region on APC between SAMP and
+                     APC_crr; pfam16635"
+                     /db_xref="CDD:435479"
+     Site            1774
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1861
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1863
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1864
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1866..1893
+                     /region_name="Highly charged"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1873..1947
+                     /region_name="APC_u15"
+                     /note="Unstructured region on APC between APC_crr regions
+                     5 and 6; pfam16636"
+                     /db_xref="CDD:435480"
+     Region          1881..1950
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          1965..2011
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1971
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61315; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            1973
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61315; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          2033..2052
+                     /region_name="SAMP"
+                     /note="SAMP Motif; pfam05924"
+                     /db_xref="CDD:461782"
+     Region          2035..2059
+                     /region_name="Interaction with AXIN1.
+                     /evidence=ECO:0000269|PubMed:10811618"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          2043..2072
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2088
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P70478; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2093
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P70478; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2125
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q61315; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2129
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P70478; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2130
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P70478; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2132
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P70478; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          2147..2635
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2151
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          2167..2674
+                     /region_name="Basic region.
+                     /evidence=ECO:0000269|PubMed:17293347"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          2223..2568
+                     /region_name="APC_basic"
+                     /note="APC basic domain; pfam05956"
+                     /db_xref="CDD:428690"
+     Site            2260
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2270
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2283
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2473
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          2475..2843
+                     /region_name="Interaction with DLG1.
+                     /evidence=ECO:0000269|PubMed:8638125"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2535
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2569
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          2667..2714
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          2670..2843
+                     /region_name="EB1_binding"
+                     /note="EB-1 Binding Domain; pfam05937"
+                     /db_xref="CDD:399141"
+     Site            2671
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18220336,
+                     ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          2674..2843
+                     /region_name="Interaction with MAPRE1.
+                     /evidence=ECO:0000269|PubMed:17293347"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2674
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2679
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:18669648; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2710
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P70478; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2724
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          2729..2843
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Site            2789
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P25054.2)"
+     Region          2803..2806
+                     /region_name="Microtubule tip localization signal"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     Region          2841..2843
+                     /region_name="PDZ-binding"
+                     /note="propagated from UniProtKB/Swiss-Prot (P25054.2)"
+     CDS             1..2843
+                     /gene="APC"
+                     /gene_synonym="BTPS2; DESMD; DP2; DP2.5; DP3; GS; PPP1R46"
+                     /coded_by="NM_000038.6:60..8591"
+                     /note="isoform b is encoded by transcript variant 3"
+                     /db_xref="CCDS:CCDS4107.1"
+                     /db_xref="GeneID:324"
+                     /db_xref="HGNC:HGNC:583"
+                     /db_xref="MIM:611731"
+ORIGIN      
+        1 maaasydqll kqvealkmen snlrqeledn snhltklete asnmkevlkq lqgsiedeam
+       61 assgqidlle rlkelnldss nfpgvklrsk mslrsygsre gsvssrsgec spvpmgsfpr
+      121 rgfvngsres tgyleeleke rsllladldk eekekdwyya qlqnltkrid slpltenfsl
+      181 qtdmtrrqle yearqirvam eeqlgtcqdm ekraqrriar iqqiekdilr irqllqsqat
+      241 eaerssqnkh etgshdaerq negqgvgein matsgngqgs ttrmdhetas vlssssthsa
+      301 prrltshlgt kvemvyslls mlgthdkddm srtllamsss qdscismrqs gclplliqll
+      361 hgndkdsvll gnsrgskear arasaalhni ihsqpddkrg rreirvlhll eqiraycetc
+      421 wewqeahepg mdqdknpmpa pvehqicpav cvlmklsfde ehrhamnelg glqaiaellq
+      481 vdcemygltn dhysitlrry agmaltnltf gdvankatlc smkgcmralv aqlksesedl
+      541 qqviasvlrn lswradvnsk ktlrevgsvk almecalevk kestlksvls alwnlsahct
+      601 enkadicavd galaflvgtl tyrsqtntla iiesgggilr nvssliatne dhrqilrenn
+      661 clqtllqhlk shsltivsna cgtlwnlsar npkdqealwd mgavsmlknl ihskhkmiam
+      721 gsaaalrnlm anrpakykda nimspgsslp slhvrkqkal eaeldaqhls etfdnidnls
+      781 pkashrskqr hkqslygdyv fdtnrhddnr sdnfntgnmt vlspylnttv lpsssssrgs
+      841 ldssrsekdr slerergigl gnyhpatenp gtsskrglqi sttaaqiakv meevsaihts
+      901 qedrssgstt elhcvtdern alrrssaaht hsntynftks ensnrtcsmp yakleykrss
+      961 ndslnsvsss dgygkrgqmk psiesysedd eskfcsygqy padlahkihs anhmddndge
+     1021 ldtpinyslk ysdeqlnsgr qspsqnerwa rpkhiiedei kqseqrqsrn qsttypvyte
+     1081 stddkhlkfq phfgqqecvs pyrsrgangs etnrvgsnhg inqnvsqslc qeddyeddkp
+     1141 tnyserysee eqheeeerpt nysikyneek rhvdqpidys lkyatdipss qkqsfsfsks
+     1201 ssgqsskteh mssssentst pssnakrqnq lhpssaqsrs gqpqkaatck vssinqetiq
+     1261 tycvedtpic fsrcsslssl ssaedeigcn qttqeadsan tlqiaeikek igtrsaedpv
+     1321 sevpavsqhp rtkssrlqgs slssesarhk avefssgaks psksgaqtpk sppehyvqet
+     1381 plmfsrctsv ssldsfesrs iassvqsepc sgmvsgiisp sdlpdspgqt mppsrsktpp
+     1441 pppqtaqtkr evpknkapta ekresgpkqa avnaavqrvq vlpdadtllh fatestpdgf
+     1501 scssslsals ldepfiqkdv elrimppvqe ndngnetese qpkesnenqe keaektidse
+     1561 kdllddsddd dieileecii samptkssrk akkpaqtask lpppvarkps qlpvykllps
+     1621 qnrlqpqkhv sftpgddmpr vycvegtpin fstatslsdl tiesppnela agegvrggaq
+     1681 sgefekrdti ptegrstdea qggktssvti pelddnkaee gdilaecins ampkgkshkp
+     1741 frvkkimdqv qqasasssap nknqldgkkk kptspvkpip qnteyrtrvr knadsknnln
+     1801 aervfsdnkd skkqnlknns kvfndklpnn edrvrgsfaf dsphhytpie gtpycfsrnd
+     1861 slssldfddd dvdlsrekae lrkakenkes eakvtshtel tsnqqsankt qaiakqpinr
+     1921 gqpkpilqkq stfpqsskdi pdrgaatdek lqnfaientp vcfshnssls slsdidqenn
+     1981 nkenepiket eppdsqgeps kpqasgyapk sfhvedtpvc fsrnsslssl sidseddllq
+     2041 ecissampkk kkpsrlkgdn ekhsprnmgg ilgedltldl kdiqrpdseh glspdsenfd
+     2101 wkaiqegans ivsslhqaaa aaclsrqass dsdsilslks gislgspfhl tpdqeekpft
+     2161 snkgprilkp gekstletkk ieseskgikg gkkvykslit gkvrsnseis gqmkqplqan
+     2221 mpsisrgrtm ihipgvrnss sstspvskkg pplktpasks psegqtatts prgakpsvks
+     2281 elspvarqts qiggsskaps rsgsrdstps rpaqqplsrp iqspgrnsis pgrngisppn
+     2341 klsqlprtss pstastkssg sgkmsytspg rqmsqqnltk qtglsknass iprsesaskg
+     2401 lnqmnngnga nkkvelsrms stkssgsesd rserpvlvrq stfikeapsp tlrrkleesa
+     2461 sfeslspssr pasptrsqaq tpvlspslpd mslsthssvq aggwrklppn lsptieyndg
+     2521 rpakrhdiar shsespsrlp inrsgtwkre hskhssslpr vstwrrtgss ssilsasses
+     2581 sekaksedek hvnsisgtkq skenqvsakg twrkikenef sptnstsqtv ssgatngaes
+     2641 ktliyqmapa vsktedvwvr iedcpinnpr sgrsptgntp pvidsvseka npnikdskdn
+     2701 qakqnvgngs vpmrtvglen rlnsfiqvda pdqkgteikp gqnnpvpvse tnessivert
+     2761 pfsssssskh sspsgtvaar vtpfnynpsp rkssadstsa rpsqiptpvn nntkkrdskt
+     2821 dstessgtqs pkrhsgsylv tsv
+//
