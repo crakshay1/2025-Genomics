@@ -16,7 +16,7 @@ gène d’interêt.
 Traitez l'ensemble des questions vues en TD qui vous paraissent pertinentes par rapport à votre projet.
 
 ## Recommandations spécifiques pour la partie GWAS de Valérie Chaudru :
-Pour les analyses d’association pan-génomiques, après avoir rappelé l’objectif et le principe du test statistique, vous indiquerez :
+Pour les analyses d’association pan-génomiques, après avoir rappelé l’objectif et le principe du test statistique, vous indiquerez :  
 • A combien de phénotypes différents votre gène a été trouvé significativement associé (téléchargez les résultats d’association pour le gène étudié à partir du GWAs catalog) et si des résultats ont été obtenue pour la maladie d’intérêt.  
 • Le nombre de gènes ayant été trouvé associé à la maladie (téléchargez les résultats d’association pour la maladie étudiée à partir du GWAs catalog)  
 • Pour votre gène d’intérêt, le nombre de SNP associé à la maladie (si votre gène n’est pas associé à la maladie, travaillez sur le gène le plus associé).  
