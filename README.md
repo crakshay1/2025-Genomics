@@ -22,7 +22,9 @@ Pour les analyses d’association pan-génomiques, après avoir rappelé l’obj
 • Pour votre gène d’intérêt, le nombre de SNP associé à la maladie (si votre gène n’est pas associé à la maladie, travaillez sur le gène le plus associé).  
 Pour ce gène, indiquez s’il s’agit d’un gène de susceptibilité ou d’une entité Mendélienne en analysant les informations des 3 colonnes suivantes « OR or beta », « 95% CI (text) » et « Risk Allele Frequency ».
 ### Remarque :
-Si aucun résultat ne ressort pour la maladie, faites une recherche bibliographique pour voir si des résultats d’association gènes candidats ont été publiés.
+Si aucun résultat ne ressort pour la maladie, faites une recherche bibliographique pour voir si des résultats d’association gènes candidats ont été publiés.  
+https://pubmed.ncbi.nlm.nih.gov/?term=apc+colorectal  
+  
 
 ## Recommandations spécifiques pour la partie SNP&DL d’Elisabeth Petit-Teixeira:
 Elles seront fournies ultérieurement. 
