@@ -30,5 +30,5 @@ https://pubmed.ncbi.nlm.nih.gov/?term=apc+colorectal
 Produire une carte de déséquilibre de liaison (DL) en r² dans la population CEU pour une région du gène que vous étudiez contenant au moins 20 SNPs  
 • Analyser la carte de DL, avec notamment identification des blocs de déséquilibre de liaison et du nombre de SNP tag  
 • Produire et analyser une carte de DL de la même région dans une autre population que la population CEU (de votre choix)  
-• Comparez les deux cartes obtenues
+• Comparez les deux cartes obtenues  
 • Recherchez si un SNP de votre carte est un eQTL. Fournir une figure qui argumente l’existence d’un eQTL. Expliquez cette figure  
