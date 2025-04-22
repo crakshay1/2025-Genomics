@@ -3,7 +3,7 @@ Notre séquence protéique a une influence sur le cancer du colon.
 
 ## Recommandations concernant le projet UE Génomique 2 – 2024/2025
 - Mise en forme: fichier pdf, 20 pages maximum, interligne 1,5 et Police Times 12
-- Date de retour: vendredi 2 mai 2025
+- Date de retour: vendredi 7 mai 2025
 - Déposer votre projet sur Ecampus, un espace a été créé à cet effet. Seul le dépôt de fichiers .pdf est autorisé.
 Votre nom de fichier doit impérativement avoir la nomenclature suivante: NuméroTrinome-NOM1-NOM2-NOM3.pdf
 
@@ -27,4 +27,8 @@ https://pubmed.ncbi.nlm.nih.gov/?term=apc+colorectal
   
 
 ## Recommandations spécifiques pour la partie SNP&DL d’Elisabeth Petit-Teixeira:
-Elles seront fournies ultérieurement. 
+Produire une carte de déséquilibre de liaison (DL) en r² dans la population CEU pour une région du gène que vous étudiez contenant au moins 20 SNPs  
+• Analyser la carte de DL, avec notamment identification des blocs de déséquilibre de liaison et du nombre de SNP tag  
+• Produire et analyser une carte de DL de la même région dans une autre population que la population CEU (de votre choix)  
+• Comparez les deux cartes obtenues
+• Recherchez si un SNP de votre carte est un eQTL. Fournir une figure qui argumente l’existence d’un eQTL. Expliquez cette figure  
