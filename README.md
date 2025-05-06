@@ -17,9 +17,9 @@ Traitez l'ensemble des questions vues en TD qui vous paraissent pertinentes par 
 
 ## Recommandations spécifiques pour la partie GWAS de Valérie Chaudru :
 Pour les analyses d’association pan-génomiques, après avoir rappelé l’objectif et le principe du test statistique, vous indiquerez :  
-• A combien de phénotypes différents votre gène a été trouvé significativement associé (téléchargez les résultats d’association pour le gène étudié à partir du GWAs catalog) et si des résultats ont été obtenue pour la maladie d’intérêt.  
-• Le nombre de gènes ayant été trouvé associé à la maladie (téléchargez les résultats d’association pour la maladie étudiée à partir du GWAs catalog)  
-• Pour votre gène d’intérêt, le nombre de SNP associé à la maladie (si votre gène n’est pas associé à la maladie, travaillez sur le gène le plus associé).  
+• A 2 phénotypes différents votre gène a été trouvé significativement associé (téléchargez les résultats d’association pour le gène étudié à partir du GWAs catalog) et si des résultats ont été obtenue pour la maladie d’intérêt.  
+• Le nombre de gènes : 1180 ayant été trouvé associé à la maladie (téléchargez les résultats d’association pour la maladie étudiée à partir du GWAs catalog)  
+• Pour votre gène d’intérêt, 2 est le nombre de SNP associé à la maladie (si votre gène n’est pas associé à la maladie, travaillez sur le gène le plus associé).  
 Pour ce gène, indiquez s’il s’agit d’un gène de susceptibilité ou d’une entité Mendélienne en analysant les informations des 3 colonnes suivantes « OR or beta », « 95% CI (text) » et « Risk Allele Frequency ».
 ### Remarque :
 Si aucun résultat ne ressort pour la maladie, faites une recherche bibliographique pour voir si des résultats d’association gènes candidats ont été publiés.  
